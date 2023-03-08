@@ -3,3 +3,5 @@ pwd answer
 ls answer
 --update task3
 cd ~
+--update task4
+ls -l
