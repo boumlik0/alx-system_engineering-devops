@@ -1,7 +1,9 @@
 pwd answer
---update task2
+--update task1
 ls answer
---update task3
+--update task2
 cd ~
---update task4
+--update task3
 ls -l
+--update task 4
+ls -al
